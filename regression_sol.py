@@ -18,6 +18,7 @@ y_train = y[train_idx]
 x_test = x[test_idx, :]
 y_test = y[test_idx]
 
+khjhgjffjgkh
 
 ########################################################################
 # Regularized Least Square
